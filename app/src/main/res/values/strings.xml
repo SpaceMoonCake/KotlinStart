@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinStart</string>
+    <string name="click_on_me">CLICK ON ME</string>
 </resources>
